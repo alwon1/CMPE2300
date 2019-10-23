@@ -12,6 +12,7 @@ namespace ICA_9_10
 {
     public partial class Form1 : Form
     {
+        public static LineGenerater s = new LineGenerater();
         public Form1()
         {
             InitializeComponent();
